@@ -35,6 +35,12 @@ export function Header() {
         </Link>
 
         <div className="flex items-center gap-4">
+          <Link
+            href="/blog"
+            className="hidden text-sm text-gray-500 transition hover:text-gray-900 sm:block dark:text-gray-400 dark:hover:text-white"
+          >
+            Blog
+          </Link>
           <a
             href="https://cloudrix.io"
             target="_blank"
