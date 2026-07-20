@@ -28,6 +28,12 @@ export function Footer() {
             >
               Take Quiz
             </Link>
+            <Link
+              href="/blog"
+              className="transition hover:text-gray-900 dark:hover:text-white"
+            >
+              Blog
+            </Link>
             <a
               href="https://cloudrix.io"
               target="_blank"
