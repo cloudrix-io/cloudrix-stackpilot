@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="40" fill="#2563EB"/>
+  <g transform="translate(40, 35)">
+    <!-- Stack layers -->
+    <rect x="20" y="90" width="80" height="18" rx="4" fill="white" opacity="0.5"/>
+    <rect x="10" y="62" width="100" height="18" rx="4" fill="white" opacity="0.7"/>
+    <rect x="0" y="34" width="120" height="18" rx="4" fill="white" opacity="0.9"/>
+    <!-- Compass arrow -->
+    <path d="M90 10 L110 30 L95 27 L90 42 L85 27 L70 30 Z" fill="white"/>
+    <!-- Pilot wing -->
+    <path d="M30 100 Q60 115 90 100" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
